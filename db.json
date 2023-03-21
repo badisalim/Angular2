@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "flower1",
+      "color": "Red",
+      "id": 1
+    },
+    {
+      "name": "flower2",
+      "color": "White",
+      "id": 2
+    },
+    {
+      "name": "flower3",
+      "color": "yellow",
+      "id": 3
+    },
+    {
+      "name": "flower5",
+      "color": "Orange",
+      "id": 4
+    }
+  ]
+}
